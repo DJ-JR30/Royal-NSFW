@@ -1,0 +1,22 @@
+{
+  "name": "royal-nsfw",
+  "version": "1.0.0",
+  "description": "Get anything NSFW.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DJ-JR30/Royal-NSFW.git"
+  },
+  "keywords": [
+    "NSFW"
+  ],
+  "author": "ACE",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DJ-JR30/Royal-NSFW/issues"
+  },
+  "homepage": "https://github.com/DJ-JR30/Royal-NSFW#readme"
+}
